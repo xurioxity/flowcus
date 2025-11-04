@@ -26,7 +26,7 @@ export function EmployeeLayout({ employeeName, employeeDisplayName, weekKey, chi
         </Link>
         
         <h1 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-fade-in">
-          {employeeDisplayName}'s Progress
+          {employeeDisplayName}&apos;s Progress
         </h1>
         
         <div className="animate-slide-in">
